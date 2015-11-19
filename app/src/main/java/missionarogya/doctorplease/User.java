@@ -4,6 +4,7 @@ package missionarogya.doctorplease;
  * Created by Sonali Sinha on 11/19/2015.
  */
 public class User {
+
     private static User ourInstance = new User();
     private String type;
     private String phoneNumber;
